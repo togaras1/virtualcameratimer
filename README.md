@@ -1,7 +1,7 @@
 # Virtual Camera Timer
 
-バーチャルカメラとして使えるタイマーです。  
-![demo1](img/demo1.gif "demo1")  
+バーチャルカメラとして使えるタイマーです。
+<img src="img/demo1.gif" width="75%">  
 
 ## requires
 Spout(as Processing Library)  
@@ -23,7 +23,7 @@ Win: [SpOut](https://spout.zeal.co/)
 
 #### 2. vlwファイルを作ります  
 
-![how2font](img/how2font.png "how2font")
+<img src="img/how2font.png" width="50%">
 
 メニューバー → ツール → フォント作成から   
 "DyoblogFont-Regular"を選択、サイズを120にセットします。  
@@ -49,7 +49,7 @@ Syphonをvideo sourceから選択しSyphon Serverの中から "virtualcameratime
 一覧に現れない場合はProcessingが実行されていないか
 なにかのエラーが起こっています。
 
-![camtwist](img/camtwistpref.png "camtwist")
+<img src="img/camtwistpref.png" width="50%">
 
 #### 5. バーチャルカメラのセッティング(Windowsの場合)  
 ここにウィンドウズでの使い方を書く
@@ -71,7 +71,7 @@ Clone this repository and open with Processing.
 
 #### 2. Create .vlw file.  
 
-![how2font](img/how2font.png "how2font")
+<img src="img/how2font.png" width="50%">
 
 MenuBar → Tools → Create Font  
 Select "DyoblogFont-Regular", Set Size 120  
@@ -95,7 +95,7 @@ It is just example!
 
 Select Syphon as video source and set Syphon Server as "virtualcameratimer".   
 
-![camtwist](img/camtwistpref.png "camtwist")
+<img src="img/camtwistpref.png" width="50%">
 
 #### 5. Setting Virtual Camera(win)  
 write here how to on windows.
